@@ -6,7 +6,7 @@
     "https://ava.network:21015/ext/evm/rpc"
   ],
   "faucets": [
-    "http://athfaucet.ava.network//?address=${ADDRESS}"
+    "https://faucet.avax-test.network"
   ],
   "nativeCurrency": {
     "name": "Athereum Ether",
